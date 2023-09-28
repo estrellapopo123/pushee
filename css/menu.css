@@ -1,0 +1,29 @@
+body{
+    background-image: url(fondoformularios.png);
+    background-color: pink;
+}
+.container-fluid{
+    background-color: rgb(255, 238, 240);
+}
+
+body{
+    margin: 0;
+}
+.container-fluid{
+    margin-bottom: 3%;
+}
+.caro{
+    width: 100%;
+    margin-bottom: 3%;
+}
+.carousel-control-next-icon{
+    filter: invert(108%);
+}
+
+.btn{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+.btn:hover{
+    background-color: rgb(127, 255, 206);
+}
